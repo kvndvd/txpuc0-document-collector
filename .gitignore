@@ -1,0 +1,12 @@
+STTXPUC0 Collected PDFs/
+STTXPUC0 results/
+.venv/
+venv/
+__pycache__/
+*.pyc
+.idea/
+.env
+dist/
+build/
+*.egg-info/
+*.txt
